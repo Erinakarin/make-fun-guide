@@ -78,7 +78,7 @@ Find your link, what each reward is worth now, how many sign-up rewards you have
 
 If this guide helped you, sign up through my referral link — it costs you nothing, and it is how guides like this one get supported:
 
-**[Sign up on make.fun with referral code `qwgwvh7w`](https://make.fun/r/qwgwvh7w)**
+**[Sign up on make.fun with referral code `gq6jtptn`](https://make.fun/r/gq6jtptn)**
 
 ## Honest expectations
 
@@ -128,4 +128,4 @@ Yes — you can fund a bounty for other people and their agents to win. See [how
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=qwgwvh7w&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=gq6jtptn&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
